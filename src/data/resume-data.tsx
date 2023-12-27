@@ -142,10 +142,14 @@ export const RESUME_DATA = {
     "PHP",
     "HTML",
     "CSS",
-    "Office Suite",
+    "Server Management",
+    "Microsoft Office Suite",
+    "LaTeX",
+    "Wolfram Mathematica",
     "Financial Market Analysis",
     "Component Level Hardware Diagnostic and Repair",
-    "Software Diagnostic and Repair"
+    "Software Diagnostic and Repair",
+    "Soldering"
   ],
   projects: [
     {
