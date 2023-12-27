@@ -12,7 +12,7 @@ export const RESUME_DATA = {
     "An enthusiastic and dedicated individual, highly motivated with a strong work ethic.",
   summary:
     "I enjoy getting tasks done quickly and as accurately as possible, being as efficient as possible, especially with repetitive tasks, my analysis skills enable me to break down jobs and restructure my work routine to best suit the workload and meet strict deadlines. I don’t shy away from new opportunities and enjoy being challenged physically and intellectually and always hope I learn something new.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/12563377?v=4",
   personalWebsiteUrl: "https://sayedhfatimi.com",
   contact: {
     email: "hamid@fatimi.co.uk",
