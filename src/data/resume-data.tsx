@@ -167,6 +167,23 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "MexMan",
+      techStack: [
+        "JavaScript",
+        "ReactJS",
+        "Node.js",
+        "electronJS",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+      ],
+      description: "Example interface for multiplatform cryptocurrency portfolio and trading manager in electronjs and ReactJS",
+      link: {
+        label: "MexMan",
+        href: "https://github.com/sayedhfatimi/MexMan",
+      },
+    },
+    {
       title: "SIPUX",
       techStack: [
         "JavaScript",
