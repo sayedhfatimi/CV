@@ -47,7 +47,7 @@ export const RESUME_DATA = {
     {
       company: "Self Employed",
       link: "",
-      badges: [],
+      badges: ["Remote"],
       title: "Financial Market Analyst",
       start: "2018",
       end: "2024",
@@ -56,7 +56,7 @@ export const RESUME_DATA = {
     {
       company: "Uber",
       link: "",
-      badges: [],
+      badges: ["Driver"],
       title: "Taxi Driver",
       start: "2020",
       end: "2023",
@@ -65,7 +65,7 @@ export const RESUME_DATA = {
     {
       company: "Amazon",
       link: "",
-      badges: [],
+      badges: ["Driver"],
       title: "Delivery Driver",
       start: "2019",
       end: "2021",
@@ -74,7 +74,7 @@ export const RESUME_DATA = {
     {
       company: "Deliveroo",
       link: "",
-      badges: [],
+      badges: ["Driver"],
       title: "Delivery Driver",
       start: "2019",
       end: "2021",
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
     {
       company: "Sitel",
       link: "",
-      badges: [],
+      badges: ["Remote"],
       title: "Customer Service Agent",
       start: "2020",
       end: "2020",
