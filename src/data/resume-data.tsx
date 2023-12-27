@@ -92,7 +92,7 @@ export const RESUME_DATA = {
     {
       company: "Tesco",
       link: "",
-      badges: [],
+      badges: ["Watford"],
       title: "Customer Service Assistant",
       start: "2017",
       end: "2017",
@@ -101,7 +101,7 @@ export const RESUME_DATA = {
     {
       company: "eLeREP",
       link: "",
-      badges: [],
+      badges: ["Harrow"],
       title: "Supervising Technician",
       start: "2015",
       end: "2017",
@@ -110,7 +110,7 @@ export const RESUME_DATA = {
     {
       company: "BarnDoc Healthcare",
       link: "",
-      badges: [],
+      badges: ["Cockfosters"],
       title: "RMS Administrator",
       start: "2014",
       end: "2015",
@@ -119,7 +119,7 @@ export const RESUME_DATA = {
     {
       company: "Final Tuition Centre",
       link: "",
-      badges: [],
+      badges: ["Enfield"],
       title: "Mathematics Tutor",
       start: "2013",
       end: "2014",
@@ -128,7 +128,7 @@ export const RESUME_DATA = {
     {
       company: "KiioLabs",
       link: "",
-      badges: [],
+      badges: ["Hendon"],
       title: "Web Development Intern",
       start: "2012",
       end: "2013",
