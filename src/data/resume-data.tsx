@@ -168,16 +168,5 @@ export const RESUME_DATA = {
         href: "https://oemi.online/",
       },
     },
-    {
-      title: "Feed The Homeless",
-      techStack: [
-
-      ],
-      description: "During my summer time, I would regularly be involved in an event in London whereby a group of us would get together, set up a stall and provide food and water to the homeless, the aim of this was not to provide them with nourishment, but to engage with them and to help make them feel like they were apart of society again. These events taught me to converse and interact with people completely different and unknown to myself, and to be open to the possibility of differences in opinion, by listening and debating I learnt to open my mind to the different possibilities this world has to offer, and the different class of approaches people take to solving issues in front of them.",
-      link: {
-        label: "",
-        href: "",
-      },
-    },
   ],
 } as const;
