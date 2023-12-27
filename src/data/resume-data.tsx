@@ -108,7 +108,7 @@ export const RESUME_DATA = {
       description: "Responsible for liaising with customers in order to ensure transactions went smoothly and customers were satisfied with their experience in the store. Diagnosis and repair of customers electronics devices i.e Laptops, PCs, Tablets. Managing day to day operations of the store as well as being a first point of contact for customers and employees and running of online eCommerce stores, as well as stock control and inventory management. Introduced and setup multiple new revenue sources, including programming of BIOS/EFI chips for recovery purposes from EFI locks, reprogramming NAND/EEPROM flash memory, data recovery management and OS installation via image restoration for a faster and more efficient service. Designed and coded device tracking system including interface, individual employee access and database. This was highly commended by our customers as it gave them a quick way to check on the progress of repairs without the need for visits or calls to the shop.",
     },
     {
-      company: "BARNDOC HEALTHCARE LIMITED",
+      company: "BarnDoc Healthcare",
       link: "",
       badges: [],
       title: "RMS Administrator",
