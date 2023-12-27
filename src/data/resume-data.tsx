@@ -181,5 +181,80 @@ export const RESUME_DATA = {
         href: "https://github.com/sayedhfatimi/DVBViewerforEmbyPlugin",
       },
     },
+    {
+      title: "URL Shortener",
+      techStack: [
+        "PHP",
+        "CSS",
+        "HTML",
+        "MySQL",
+      ],
+      description: "URL Shortener for school project",
+      link: {
+        label: "URL Shortener",
+        href: "https://github.com/sayedhfatimi/URL-Shortener",
+      },
+    },
+    {
+      title: "Sociomark",
+      techStack: [
+        "PHP",
+        "CSS",
+        "HTML",
+        "MySQL",
+        "JavaScript",
+        "jQuery",
+      ],
+      description: "Bookmarking Web App",
+      link: {
+        label: "Sociomark",
+        href: "https://github.com/sayedhfatimi/Sociomark",
+      },
+    },
+    {
+      title: "FBR",
+      techStack: [
+        "PHP",
+        "CSS",
+        "HTML",
+        "MySQL",
+        "JavaScript",
+        "jQuery",
+      ],
+      description: "Rehash of Facebook for school project with registration, login, posting and multiple stylesheets",
+      link: {
+        label: "FBR",
+        href: "https://github.com/sayedhfatimi/FBR",
+      },
+    },
+    {
+      title: "OliveChat",
+      techStack: [
+        "PHP",
+        "CSS",
+        "HTML",
+      ],
+      description: "Basic chat webapp supporting Sony PSPs limited functionality browser",
+      link: {
+        label: "OliveChat",
+        href: "https://github.com/sayedhfatimi/OliveChat",
+      },
+    },
+    {
+      title: "TR",
+      techStack: [
+        "PHP",
+        "CSS",
+        "HTML",
+        "MySQL",
+        "JavaScript",
+        "jQuery",
+      ],
+      description: "Rehash of Twitter for school project",
+      link: {
+        label: "TR",
+        href: "https://github.com/sayedhfatimi/TR",
+      },
+    },
   ],
 } as const;
