@@ -1,7 +1,6 @@
 import { GitHubIcon } from "../components/icons/GitHubIcon";
 import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
-import OEMILogo from "../images/logos/oemi.png";
 
 export const RESUME_DATA = {
   name: "Sayed Hamid Fatimi",
@@ -162,10 +161,25 @@ export const RESUME_DATA = {
         "MySQL",
       ],
       description: "Online Encyclopedia for Mathematical Identities",
-      logo: OEMILogo,
       link: {
         label: "oemi.online",
         href: "https://oemi.online/",
+      },
+    },
+    {
+      title: "SIPUX",
+      techStack: [
+        "JavaScript",
+        "jQuery",
+        "Node.js",
+        "electronJS",
+        "HTML",
+        "CSS",
+      ],
+      description: "Example interface for multiplatform cryptocurrency wallet in electronjs",
+      link: {
+        label: "SIPUX",
+        href: "https://github.com/sayedhfatimi/SIPUX",
       },
     },
     {
