@@ -256,5 +256,19 @@ export const RESUME_DATA = {
         href: "https://github.com/sayedhfatimi/TR",
       },
     },
+    {
+      title: "QuranPlayrr",
+      techStack: [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "jQuery",
+      ],
+      description: "HTML5 audio player for Quran, hooking into API to grab text and audio, and autoscroll for follow along",
+      link: {
+        label: "QuranPlayrr",
+        href: "https://github.com/sayedhfatimi/QuranPlayrr",
+      },
+    },
   ],
 } as const;
