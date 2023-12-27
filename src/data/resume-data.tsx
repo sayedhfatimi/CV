@@ -37,7 +37,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Queen Mary, University of London ",
+      school: "Queen Mary, University of London",
       degree: "BSc Physics",
       start: "2011",
       end: "2014",
@@ -138,11 +138,14 @@ export const RESUME_DATA = {
   skills: [
     "JavaScript",
     "React",
+    "Bootstrap",
     "PHP",
     "HTML",
     "CSS",
+    "Office Suite",
     "Financial Market Analysis",
-    "Component Level Hardware Diagnostic and Repair"
+    "Component Level Hardware Diagnostic and Repair",
+    "Software Diagnostic and Repair"
   ],
   projects: [
     {
