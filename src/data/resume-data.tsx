@@ -168,5 +168,18 @@ export const RESUME_DATA = {
         href: "https://oemi.online/",
       },
     },
+    {
+      title: "Media Plugin for Emby",
+      techStack: [
+        "C#",
+        "JavaScript",
+        "HTML",
+      ],
+      description: "DVB Viewer Plugin for Emby Media Server",
+      link: {
+        label: "Media Plugin for Emby",
+        href: "https://github.com/sayedhfatimi/DVBViewerforEmbyPlugin",
+      },
+    },
   ],
 } as const;
