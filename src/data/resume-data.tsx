@@ -154,6 +154,20 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Expense Tracker",
+      techStack: [
+        "TypeScript",
+        "React",
+        "Zod",
+        "BootStrap"
+      ],
+      description: "Simple expense tracker app developed in React",
+      link: {
+        label: "Expense Tracker",
+        href: "https://github.com/sayedhfatimi/expense-tracker",
+      },
+    },
+    {
       title: "OEMI",
       techStack: [
         "Docker",
