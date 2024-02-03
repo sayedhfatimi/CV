@@ -157,7 +157,7 @@ export const RESUME_DATA = {
       title: "Expense Tracker",
       techStack: [
         "TypeScript",
-        "React",
+        "ReactJS",
         "Zod",
         "BootStrap"
       ],
