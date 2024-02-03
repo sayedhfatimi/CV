@@ -158,6 +158,7 @@ export const RESUME_DATA = {
       techStack: [
         "TypeScript",
         "ReactJS",
+        "Vite",
         "Zod",
         "BootStrap"
       ],
