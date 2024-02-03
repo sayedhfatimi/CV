@@ -136,7 +136,8 @@ export const RESUME_DATA = {
   ],
   skills: [
     "JavaScript",
-    "React",
+    "TypeScript",
+    "ReactJS",
     "Bootstrap",
     "PHP",
     "HTML",
