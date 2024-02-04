@@ -155,6 +155,21 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Game Hub",
+      techStack: [
+        "TypeScript",
+        "JavaScript",
+        "ChakraUI",
+        "ReactJS",
+        "Vite",
+      ],
+      description: "Game Hub app for displaying, sorting and search through list of games across multiple platforms.",
+      link: {
+        label: "Game Hub",
+        href: "https://github.com/sayedhfatimi/game-hub",
+      },
+    },
+    {
       title: "Expense Tracker",
       techStack: [
         "TypeScript",
