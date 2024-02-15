@@ -138,7 +138,9 @@ export const RESUME_DATA = {
     "JavaScript",
     "TypeScript",
     "ReactJS",
+    "Next.js",
     "Bootstrap",
+    "Tailwind CSS",
     "PHP",
     "HTML",
     "CSS",
@@ -154,6 +156,25 @@ export const RESUME_DATA = {
     "Soldering"
   ],
   projects: [
+    {
+      title: "Issue Tracker",
+      techStack: [
+        "Next.js",
+        "TypeScript",
+        "ReactJS",
+        "Next-Auth.js",
+        "Radix-UI",
+        "Prisma",
+        "MySQL",
+        "Sentry",
+        "Tailwind CSS"
+      ],
+      description: "Example issue tracker app developed in Next.js, with integrated OAuth for social logins via Next-Auth.js and Prisma with MySQL for data storage.",
+      link: {
+        label: "Issue Tracker",
+        href: "https://github.com/sayedhfatimi/issue-tracker",
+      },
+    },
     {
       title: "Game Hub",
       techStack: [
