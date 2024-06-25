@@ -148,7 +148,7 @@ export const RESUME_DATA = {
     "Microsoft Office Suite",
     "LaTeX",
     "Linux",
-    "Bash",
+    "Bash/ZSH/Fish Shell",
     "Wolfram Mathematica",
     "Financial Market Analysis",
     "Component Level Hardware Diagnostic and Repair",
@@ -156,6 +156,23 @@ export const RESUME_DATA = {
     "Soldering"
   ],
   projects: [
+    {
+      title: "Plutarc Trading Terminal",
+      techStack: [
+        "Next.js",
+        "TypeScript",
+        "ReactJS",
+        "Next-Auth.js",
+        "Prisma",
+        "MySQL",
+        "Tailwind CSS"
+      ],
+      description: "Demo trading terminal in React and Next.js, implements WebSocket for accessing orderbook data and recent trades, with customizable interface (drag and drop, resize, show/hide elements, persistence of state) and multiple API keys for concurrent trading across multiple accounts. In browser encryption and decryption of API keys and direct communication with exchange backend without use of proxy server. MySQL and Prisma ORM for communication to private database server. Auth.js for social OAuth and/or modularity for alternative authentication methods.",
+      link: {
+        label: "Plutarc Trading Terminal",
+        href: "https://github.com/sayedhfatimi/plutarc",
+      },
+    },
     {
       title: "Issue Tracker",
       techStack: [
