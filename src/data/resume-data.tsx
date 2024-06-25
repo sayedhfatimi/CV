@@ -15,7 +15,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://sayedhfatimi.com",
   contact: {
     email: "hamid@fatimi.co.uk",
-    tel: "+447818184258",
+    tel: "+44-7818-184258",
     social: [
       {
         name: "GitHub",
@@ -86,7 +86,8 @@ export const RESUME_DATA = {
       title: "Customer Service Agent",
       start: "2020",
       end: "2020",
-      description: "Track and Trace telephone agent during COVID pandemic breakout",
+      description:
+        "Track and Trace telephone agent during COVID pandemic breakout",
     },
     {
       company: "Tesco",
@@ -104,7 +105,8 @@ export const RESUME_DATA = {
       title: "Supervising Technician",
       start: "2015",
       end: "2017",
-      description: "Responsible for liaising with customers in order to ensure transactions went smoothly and customers were satisfied with their experience in the store. Diagnosis and repair of customers electronics devices i.e Laptops, PCs, Tablets. Managing day to day operations of the store as well as being a first point of contact for customers and employees and running of online eCommerce stores, as well as stock control and inventory management. Introduced and setup multiple new revenue sources, including programming of BIOS/EFI chips for recovery purposes from EFI locks, reprogramming NAND/EEPROM flash memory, data recovery management and OS installation via image restoration for a faster and more efficient service. Designed and coded device tracking system including interface, individual employee access and database. This was highly commended by our customers as it gave them a quick way to check on the progress of repairs without the need for visits or calls to the shop.",
+      description:
+        "Responsible for liaising with customers in order to ensure transactions went smoothly and customers were satisfied with their experience in the store. Diagnosis and repair of customers electronics devices i.e Laptops, PCs, Tablets. Managing day to day operations of the store as well as being a first point of contact for customers and employees and running of online eCommerce stores, as well as stock control and inventory management. Introduced and setup multiple new revenue sources, including programming of BIOS/EFI chips for recovery purposes from EFI locks, reprogramming NAND/EEPROM flash memory, data recovery management and OS installation via image restoration for a faster and more efficient service. Designed and coded device tracking system including interface, individual employee access and database. This was highly commended by our customers as it gave them a quick way to check on the progress of repairs without the need for visits or calls to the shop.",
     },
     {
       company: "BarnDoc Healthcare",
@@ -113,7 +115,8 @@ export const RESUME_DATA = {
       title: "RMS Administrator",
       start: "2014",
       end: "2015",
-      description: "Data input and database management. Managing correspondence via fax, phone and email with clients, patients and healthcare providers. Contacting patients, GPs and Hospitals and handling strictly confidential patient information.",
+      description:
+        "Data input and database management. Managing correspondence via fax, phone and email with clients, patients and healthcare providers. Contacting patients, GPs and Hospitals and handling strictly confidential patient information.",
     },
     {
       company: "Final Tuition Centre",
@@ -122,7 +125,8 @@ export const RESUME_DATA = {
       title: "Mathematics Tutor",
       start: "2013",
       end: "2014",
-      description: "Organising lesson plans and course material. Teaching students and ensuring that each individual was understanding the content that was necessary for the examinations. Marking work and providing constructive feedback as well as assigning homework and reading material for the week that would assist in the students development. Setting and assisting students in attaining target grades.",
+      description:
+        "Organising lesson plans and course material. Teaching students and ensuring that each individual was understanding the content that was necessary for the examinations. Marking work and providing constructive feedback as well as assigning homework and reading material for the week that would assist in the students development. Setting and assisting students in attaining target grades.",
     },
     {
       company: "KiioLabs",
@@ -131,7 +135,8 @@ export const RESUME_DATA = {
       title: "Web Development Intern",
       start: "2012",
       end: "2013",
-      description: "Assisted a group of application developers in producing some web apps. My role in this group involved coding the back end to the design interfaces and ensuring the applications worked as desired. I managed to assist the team in producing two quality applications that gained positive reception from its target audience. During my time with KiioLabs, my ability to code in HTML5, CSS, PHP, MySQL and JavaScript were put to the test, including understanding of JavaScript libraries and their utilisation. I also managed to design and setup multiple databases and learnt how to collaborate with multiple developers at once, ensuring our code interacted and interfaced well with each other.",
+      description:
+        "Assisted a group of application developers in producing some web apps. My role in this group involved coding the back end to the design interfaces and ensuring the applications worked as desired. I managed to assist the team in producing two quality applications that gained positive reception from its target audience. During my time with KiioLabs, my ability to code in HTML5, CSS, PHP, MySQL and JavaScript were put to the test, including understanding of JavaScript libraries and their utilisation. I also managed to design and setup multiple databases and learnt how to collaborate with multiple developers at once, ensuring our code interacted and interfaced well with each other.",
     },
   ],
   skills: [
@@ -153,7 +158,7 @@ export const RESUME_DATA = {
     "Financial Market Analysis",
     "Component Level Hardware Diagnostic and Repair",
     "Software Diagnostic and Repair",
-    "Soldering"
+    "Soldering",
   ],
   projects: [
     {
@@ -165,9 +170,10 @@ export const RESUME_DATA = {
         "Next-Auth.js",
         "Prisma",
         "MySQL",
-        "Tailwind CSS"
+        "Tailwind CSS",
       ],
-      description: "Demo trading terminal in React and Next.js, implements WebSocket for accessing orderbook data and recent trades, with customizable interface (drag and drop, resize, show/hide elements, persistence of state) and multiple API keys for concurrent trading across multiple accounts. In browser encryption and decryption of API keys and direct communication with exchange backend without use of proxy server. MySQL and Prisma ORM for communication to private database server. Auth.js for social OAuth and/or modularity for alternative authentication methods.",
+      description:
+        "Demo trading terminal in React and Next.js, implements WebSocket for accessing orderbook data and recent trades, with customizable interface (drag and drop, resize, show/hide elements, persistence of state) and multiple API keys for concurrent trading across multiple accounts. In browser encryption and decryption of API keys and direct communication with exchange backend without use of proxy server. MySQL and Prisma ORM for communication to private database server. Auth.js for social OAuth and/or modularity for alternative authentication methods.",
       link: {
         label: "Plutarc Trading Terminal",
         href: "https://github.com/sayedhfatimi/plutarc",
@@ -184,9 +190,10 @@ export const RESUME_DATA = {
         "Prisma",
         "MySQL",
         "Sentry",
-        "Tailwind CSS"
+        "Tailwind CSS",
       ],
-      description: "Example issue tracker app developed in Next.js, with integrated OAuth for social logins via Next-Auth.js and Prisma with MySQL for data storage.",
+      description:
+        "Example issue tracker app developed in Next.js, with integrated OAuth for social logins via Next-Auth.js and Prisma with MySQL for data storage.",
       link: {
         label: "Issue Tracker",
         href: "https://github.com/sayedhfatimi/issue-tracker",
@@ -194,14 +201,9 @@ export const RESUME_DATA = {
     },
     {
       title: "Game Hub",
-      techStack: [
-        "TypeScript",
-        "JavaScript",
-        "ChakraUI",
-        "ReactJS",
-        "Vite",
-      ],
-      description: "Game Hub app for displaying, sorting and search through list of games across multiple platforms.",
+      techStack: ["TypeScript", "JavaScript", "ChakraUI", "ReactJS", "Vite"],
+      description:
+        "Game Hub app for displaying, sorting and search through list of games across multiple platforms.",
       link: {
         label: "Game Hub",
         href: "https://github.com/sayedhfatimi/game-hub",
@@ -209,13 +211,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Expense Tracker",
-      techStack: [
-        "TypeScript",
-        "ReactJS",
-        "Vite",
-        "Zod",
-        "BootStrap"
-      ],
+      techStack: ["TypeScript", "ReactJS", "Vite", "Zod", "BootStrap"],
       description: "Simple expense tracker app developed in React",
       link: {
         label: "Expense Tracker",
@@ -224,11 +220,7 @@ export const RESUME_DATA = {
     },
     {
       title: "OEMI",
-      techStack: [
-        "Docker",
-        "JavaScript",
-        "MySQL",
-      ],
+      techStack: ["Docker", "JavaScript", "MySQL"],
       description: "Online Encyclopedia for Mathematical Identities",
       link: {
         label: "oemi.online",
@@ -246,7 +238,8 @@ export const RESUME_DATA = {
         "CSS",
         "Semantic UI",
       ],
-      description: "Example interface for multiplatform cryptocurrency portfolio and trading manager in electronjs and ReactJS",
+      description:
+        "Example interface for multiplatform cryptocurrency portfolio and trading manager in electronjs and ReactJS",
       link: {
         label: "MexMan",
         href: "https://github.com/sayedhfatimi/MexMan",
@@ -262,7 +255,8 @@ export const RESUME_DATA = {
         "HTML",
         "CSS",
       ],
-      description: "Example interface for multiplatform cryptocurrency wallet in electronjs",
+      description:
+        "Example interface for multiplatform cryptocurrency wallet in electronjs",
       link: {
         label: "SIPUX",
         href: "https://github.com/sayedhfatimi/SIPUX",
@@ -270,11 +264,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Media Plugin for Emby",
-      techStack: [
-        "C#",
-        "JavaScript",
-        "HTML",
-      ],
+      techStack: ["C#", "JavaScript", "HTML"],
       description: "DVB Viewer Plugin for Emby Media Server",
       link: {
         label: "Media Plugin for Emby",
@@ -283,12 +273,7 @@ export const RESUME_DATA = {
     },
     {
       title: "URL Shortener",
-      techStack: [
-        "PHP",
-        "CSS",
-        "HTML",
-        "MySQL",
-      ],
+      techStack: ["PHP", "CSS", "HTML", "MySQL"],
       description: "URL Shortener for school project",
       link: {
         label: "URL Shortener",
@@ -297,14 +282,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Sociomark",
-      techStack: [
-        "PHP",
-        "CSS",
-        "HTML",
-        "MySQL",
-        "JavaScript",
-        "jQuery",
-      ],
+      techStack: ["PHP", "CSS", "HTML", "MySQL", "JavaScript", "jQuery"],
       description: "Bookmarking Web App",
       link: {
         label: "Sociomark",
@@ -313,15 +291,9 @@ export const RESUME_DATA = {
     },
     {
       title: "FBR",
-      techStack: [
-        "PHP",
-        "CSS",
-        "HTML",
-        "MySQL",
-        "JavaScript",
-        "jQuery",
-      ],
-      description: "Rehash of Facebook for school project with registration, login, posting and multiple stylesheets",
+      techStack: ["PHP", "CSS", "HTML", "MySQL", "JavaScript", "jQuery"],
+      description:
+        "Rehash of Facebook for school project with registration, login, posting and multiple stylesheets",
       link: {
         label: "FBR",
         href: "https://github.com/sayedhfatimi/FBR",
@@ -329,12 +301,9 @@ export const RESUME_DATA = {
     },
     {
       title: "OliveChat",
-      techStack: [
-        "PHP",
-        "CSS",
-        "HTML",
-      ],
-      description: "Basic chat webapp supporting Sony PSPs limited functionality browser",
+      techStack: ["PHP", "CSS", "HTML"],
+      description:
+        "Basic chat webapp supporting Sony PSPs limited functionality browser",
       link: {
         label: "OliveChat",
         href: "https://github.com/sayedhfatimi/OliveChat",
@@ -342,14 +311,7 @@ export const RESUME_DATA = {
     },
     {
       title: "TR",
-      techStack: [
-        "PHP",
-        "CSS",
-        "HTML",
-        "MySQL",
-        "JavaScript",
-        "jQuery",
-      ],
+      techStack: ["PHP", "CSS", "HTML", "MySQL", "JavaScript", "jQuery"],
       description: "Rehash of Twitter for school project",
       link: {
         label: "TR",
@@ -358,13 +320,9 @@ export const RESUME_DATA = {
     },
     {
       title: "QuranPlayrr",
-      techStack: [
-        "CSS",
-        "HTML",
-        "JavaScript",
-        "jQuery",
-      ],
-      description: "HTML5 audio player for Quran, hooking into API to grab text and audio, and autoscroll for follow along",
+      techStack: ["CSS", "HTML", "JavaScript", "jQuery"],
+      description:
+        "HTML5 audio player for Quran, hooking into API to grab text and audio, and autoscroll for follow along",
       link: {
         label: "QuranPlayrr",
         href: "https://github.com/sayedhfatimi/QuranPlayrr",
