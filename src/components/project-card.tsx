@@ -1,11 +1,13 @@
+"use client";
+import ShowMoreText from "react-show-more-text";
+import { Badge } from "./ui/badge";
 import {
   Card,
-  CardHeader,
   CardContent,
   CardDescription,
+  CardHeader,
   CardTitle,
 } from "./ui/card";
-import { Badge } from "./ui/badge";
 
 interface Props {
   title: string;
@@ -37,7 +39,9 @@ export function ProjectCard({ title, description, tags, link }: Props) {
             {link?.replace("https://", "").replace("www.", "").replace("/", "")}
           </div>
           <CardDescription className="font-mono text-xs">
-            {description}
+            <ShowMoreText anchorClass="hover:underline hover:cursor-pointer">
+              {description}
+            </ShowMoreText>
           </CardDescription>
         </div>
       </CardHeader>
