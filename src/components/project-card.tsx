@@ -39,7 +39,7 @@ export function ProjectCard({ title, description, tags, link }: Props) {
             {link?.replace("https://", "").replace("www.", "").replace("/", "")}
           </div>
           <CardDescription className="font-mono text-xs">
-            <ShowMoreText anchorClass="hover:underline hover:cursor-pointer">
+            <ShowMoreText anchorClass="text-primary hover:underline hover:cursor-pointer">
               {description}
             </ShowMoreText>
           </CardDescription>
