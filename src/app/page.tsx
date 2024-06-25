@@ -60,7 +60,7 @@ export default function Page() {
                     variant="outline"
                     size="icon"
                   >
-                    <a href={social.url}>
+                    <a href={social.url} target="_blank">
                       <social.icon className="h-4 w-4" />
                     </a>
                   </Button>
